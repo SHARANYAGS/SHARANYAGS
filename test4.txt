@@ -1,2 +1,5 @@
 sharanya, this is a git hub webinar
 hello class
+new class
+done with the class
+new cmd
